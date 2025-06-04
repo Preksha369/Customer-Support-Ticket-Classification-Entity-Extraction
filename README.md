@@ -1,4 +1,4 @@
-##Customer Support Ticket Classifier
+## Customer Support Ticket Classifier
 
 This project builds a machine learning pipeline that classifies customer support tickets by **issue type** and **urgency level**, and also extracts useful entities like **products**, **dates**, and **complaint keywords**.
 
