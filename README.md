@@ -76,7 +76,7 @@ This project builds a machine learning pipeline that classifies customer support
 2. Run the notebook or Python script to train models.
 3. Launch the Gradio interface to test predictions interactively.
 
-## 🚀 Use Case
+## Use Case
 
 Ideal for companies looking to automate support ticket categorization and prioritize issues for better customer service management.
 
